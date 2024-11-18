@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Ambiente de estudos para React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomaNFS21/Estudos-React.git"
+  },
+  "author": "Victor Roma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomaNFS21/Estudos-React/issues"
+  },
+  "homepage": "https://github.com/RomaNFS21/Estudos-React#readme"
+}
