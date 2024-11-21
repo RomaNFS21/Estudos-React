@@ -7,4 +7,4 @@ Repositório destinado ao estudo de **react**
 3. Adicionado barra de navegação ao projeto
 4. Atualização do README
 
-![<BarraDeNavegação>](<https://i.vgy.me/0CFGSF.png>)
+![<BarraDeNavegação>](https://i.vgy.me/0CFGSF.png)
