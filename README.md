@@ -29,10 +29,11 @@ No arquivo index.js foi adicionado o import do bootstrap
 ### 2. Criação da pasta **components** na pasta src 
 
 ### 3. Criação e configuração do arquivo MenuComponent.js na pasta components
+- Criação do componente para o site exibir os produtos
+- Produtos em formato de lista
+- Informações contidas nas listas: id, nome, imagem, categoria, label, preço, descrição
+- A organização de como sera exibida essas informações da lista, tamanho da fonte, formatação do texto.
 
 ### 4. Alteração no arquivo App.js
-- Adicionado as seguintes instruções 
-import Menu from './components/MenuComponent';
-. . .
-<Menu />
-
+- Adicionado as seguintes instrução de: import Menu from './components/MenuComponent para utilizar das instruções do MenuComponent
+- Adicionado < Menu /> para as configurações feitas no MenuComponent.js para serem exibidas no site.
