@@ -21,3 +21,18 @@ No arquivo index.js foi adicionado o import do bootstrap
 - Informativo das modificações realizadas no projeto
 
 ![Barra de navegação](chrome_B2BbaJGFoM.png)
+
+# Aula 09 - 25/11/2024
+
+### 1. Criação da pasta **assets** na pasta public e adicionado imagens a pasta
+
+### 2. Criação da pasta **components** na pasta src 
+
+### 3. Criação e configuração do arquivo MenuComponent.js na pasta components
+
+### 4. Alteração no arquivo App.js
+- Adicionado as seguintes instruções 
+import Menu from './components/MenuComponent';
+. . .
+<Menu />
+
