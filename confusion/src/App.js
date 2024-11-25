@@ -6,7 +6,7 @@ import Menu from './components/MenuComponent';
 function App() {
   return (
     <div className="App">
-      <Menu />
+      
       
         <Navbar dark color="primary">
           <div className="container">
@@ -15,6 +15,8 @@ function App() {
           </div>
         </Navbar>
       
+        <Menu />
+
     </div>
   );
 }
