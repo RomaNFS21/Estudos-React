@@ -37,3 +37,8 @@ No arquivo index.js foi adicionado o import do bootstrap
 ### 4. Alteração no arquivo App.js
 - Adicionado as seguintes instrução de: import Menu from './components/MenuComponent para utilizar das instruções do MenuComponent
 - Adicionado < Menu /> para as configurações feitas no MenuComponent.js para serem exibidas no site.
+
+
+# Aula 10 - 26/11/2024
+
+
