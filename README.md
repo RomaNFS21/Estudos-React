@@ -62,4 +62,13 @@ No arquivo index.js foi adicionado o import do bootstrap
 - 3.1 É a variavel que vai assumir os valores que serão importados da pasta dishes
 - 3.2 aonde ele estiver colocado no codigo é onde vai ser exibido/invocado as instruções dos cartões DISHES
 
+# Aula  - 04/12/2024
 
+### 1. Criação de novo componente (DishdetailComponent)
+- Esse arquivo agora vai ser responsavel por gerar as informações do prato selecionado como imagem, nome do prato, descrição, avaliação dos clientes, data da avaliação e nome do cliente
+- Dentro desse arquivo foi criada a função **DishDetail** que enquanto nenhum prato for selecionado nenhuma informação sera mostrada e quando algum prato foi selecionado numa coluna vai aparecer a imagem, nome e descrição do prato e em outra coluna ao lado direito os comentario sobre o prato, data e nome do cliente.
+- Essa função foi exportada para o arquivo **MenuComponents** 
+
+### 2. Modificações no arquivo MenuComponents
+- Foi retirada a função **renderDish** por que agora as informações do prato selecionado estão sendo geradas pela **DishDetail**
+- E no **return** é chamada a função **DishDetail** para gerar as informações do prato selecionado
