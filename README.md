@@ -62,7 +62,7 @@ No arquivo index.js foi adicionado o import do bootstrap
 - 3.1 É a variavel que vai assumir os valores que serão importados da pasta dishes
 - 3.2 aonde ele estiver colocado no codigo é onde vai ser exibido/invocado as instruções dos cartões DISHES
 
-# Aula  - 04/12/2024
+# Aula 16 - 04/12/2024
 
 ### 1. Criação de novo componente (DishdetailComponent)
 - Esse arquivo agora vai ser responsavel por gerar as informações do prato selecionado como imagem, nome do prato, descrição, avaliação dos clientes, data da avaliação e nome do cliente
